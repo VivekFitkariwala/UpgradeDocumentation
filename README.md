@@ -18,12 +18,13 @@ $ npm install
 
 Once you're strong enough, save the world:
 
-{% code title="New Filename" %}
-```c
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+{% tabs %}
+{% tab title="Shell" %}
+```text
+npm run dev
 ```
-{% endcode %}
+{% endtab %}
+{% endtabs %}
 
 
 
